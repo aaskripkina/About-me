@@ -1,7 +1,7 @@
 # Facts about me
 I love cats 
 
-![norwegian forest cat](https://images.ctfassets.net/440y9b545yd9/2L7thrHWc0rVOEoNJhdNOw/68fdd37c4ce5f5de58a4266383aa36a1/Norwegian-Forest-Cat850.jpg)
+![norwegian forest cat](https://images.ctfassets.net/s7r1h98f1v8b/2F1Ezrd3m9B1frLRVXFwBj/f7a5f9e5dc89656ff2e728633ca094d9/norwegian_forest_cat__1_.jpg?w=350&fm=webp&q=80&fit=thumb)
 
 
 
